@@ -1,6 +1,6 @@
 # CloneToolX for macOS
 
-🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent. 🌐 [agentiloop.ai](https://agentiloop.ai)
 
 Disk cloning software for macOS Big Sur 11.5.2+
 ClonetoolX has officially reached Beta stage.
